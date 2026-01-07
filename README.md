@@ -1,0 +1,2 @@
+# StociTrack
+Student Tracking system
